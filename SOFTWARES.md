@@ -50,32 +50,32 @@
 - tmux
 
 ## Softwares
+- Adobe CC
+- AppCleaner
+- Clipy
+- Discord
+- draw.io
+- Figma
 - Google Chrome
 - Google Drive
-- Slack
+- hhkb-keymap-tool  (homebrew/cask-drivers)
+- hhkb-pro-driver   (homebrew/cask-drivers)
+- ImageOptim
+- Keka
+- Kindle
+- Macs Fan Control
+- mas-cli
 - Mattermost
-- Zoom
-- Discord
-<!-- - betterdiscord-installer -->
-- Webex
-- Adobe CC
-- Notion
-- Figma
-<!-- TODO: 良いのあれば -->
-<!-- - Macs Fan Control -->
 - Microsoft Office
 - Miro
-- Kindle
-- Thunderbird
-- AppCleaner
-- ImageOptim
+- Notion
 - OBS
-- draw.io
-- Clipy
-- mas-cli
-- hhkb-pro-driver   (homebrew/cask-drivers)
-- hhkb-keymap-tool  (homebrew/cask-drivers)
-- Keka
+- Slack
+- Thunderbird
+- Webex
+- Zoom
+
+<!-- - betterdiscord-installer -->
 
 ## Fonts
 - SF Symbols

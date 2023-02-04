@@ -1,4 +1,4 @@
 #!/bin/zsh
 
 # Install AppCleaner
-brew install --cask app-cleaner
+brew install --cask appcleaner
