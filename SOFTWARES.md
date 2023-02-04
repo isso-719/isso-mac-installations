@@ -34,8 +34,7 @@
 - Postman
 - Vysor
 - jq
-- pipenv
-- TODO: devbox 使う?
+<!-- - TODO: devbox 使う? -->
 - Google Cloud SDK
 - AWS CLI
 - Git
@@ -76,6 +75,14 @@
 - Zoom
 
 <!-- - betterdiscord-installer -->
+
+## Mac App Store
+- Hidden Bar
+- LINE
+- Microsoft Remote Desktop
+- Paste Plain Text
+- The Unarchiver
+- Xcode
 
 ## Fonts
 - SF Symbols
