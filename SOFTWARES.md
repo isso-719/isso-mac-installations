@@ -1,13 +1,15 @@
 # Software Lists
 
 ## Languages
-- Golang     (asdf)
-- Python     (asdf)
-- Ruby       (asdf)
-- Node.js    (asdf)
-- Java       (asdf)
-- Rust       (Rustup)
-- Terraform  (anyenv, tfenv)
+- Golang         (asdf)
+- Python         (asdf)
+- Ruby           (asdf)
+- JavaScript
+  - Node.js      (asdf)
+  - Yarn         (asdf)
+- Terraform      (asdf)
+- Java           (asdf)
+- Rust           (Rustup)
 
 ## Editors
 - VSCode

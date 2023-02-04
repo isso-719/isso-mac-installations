@@ -9,3 +9,6 @@ asdf global python latest
 asdf plugin add poetry
 asdf install poetry latest
 asdf global poetry latest
+
+# Reload Shell
+exec $SHELL -l
