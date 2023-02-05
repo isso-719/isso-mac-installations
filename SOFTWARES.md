@@ -29,9 +29,9 @@
 - Docker Compose
 - Kitematic@0.17.3
 - UnityHub
-- Unity            (UnityHub)
+- Unity                        (UnityHub, notCommand)
 - Parallels
-- iTerm2? or WezTerm or Warp
+- Warp
 - Insomnia
 - Postman
 - Vysor
@@ -40,15 +40,13 @@
 - Google Cloud SDK
 - AWS CLI
 - Git
-- Rosetta 2
-- Poetry
-- gcc
+- Poetry                       (asdf)
 - make
 - wget
-- curl
 - tree
 - htop
 - tmux
+- Rosetta 2
 
 ## Softwares
 - Adobe CC
@@ -66,7 +64,7 @@
 - Kindle
 - Macs Fan Control
 - mas-cli
-- Mattermost
+- Mattermost@4.7.1
 - Microsoft Office
 - Miro
 - Notion
@@ -75,8 +73,6 @@
 - Thunderbird
 - Webex
 - Zoom
-
-<!-- - betterdiscord-installer -->
 
 ## Mac App Store
 - Hidden Bar
