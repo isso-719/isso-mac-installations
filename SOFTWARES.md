@@ -20,6 +20,9 @@
 - Goland             (JetBrains Toolbox)
 - PyCharm            (JetBrains Toolbox, Allow Poetry)
 - Fleet              (JetBrains Toolbox)
+- Rider              (JetBrains Toolbox)
+- CRion              (JetBrains Toolbox)
+- RubyMine           (JetBrains Toolbox)
 - Xcode              (mas-cli, 497799835)
 
 ## Tools
